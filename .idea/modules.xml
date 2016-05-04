@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CellActivityDemo.iml" filepath="$PROJECT_DIR$/CellActivityDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CellDemo.iml" filepath="$PROJECT_DIR$/CellDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/cellservice/cellservice/cellservice.iml" filepath="$PROJECT_DIR$/libraries/cellservice/cellservice/cellservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/cellservice/cellservice.iml" filepath="$PROJECT_DIR$/cellservice/cellservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/cellservice/cellservice.iml" filepath="$PROJECT_DIR$/cellservice/cellservice.iml" />
     </modules>
