@@ -1,3 +1,4 @@
 [submodule "libraries/cellservice"]
 	path = libraries/cellservice
 	url = https://github.com/datagiraffe/cellservice.git
+	branch = master
